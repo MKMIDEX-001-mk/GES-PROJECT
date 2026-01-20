@@ -63,5 +63,19 @@ button {
   cursor: pointer;
 }
 
+span a {
+  color: rgb(0, 153, 219, 0.9);
+  text-decoration: none;
+  margin-top: 1rem;
+}
+
+.check {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+
+
 
 
