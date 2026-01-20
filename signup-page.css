@@ -18,7 +18,7 @@ body {
 form {
   border: 1px solid rgb(0, 153, 219, 0.9);
   width: 100%;
-  max-width: 300px;
+  max-width: 320px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -47,7 +47,7 @@ fieldset {
 }
 
 .term {
-  font-size: 0.84rem;
+  font-size: 0.64rem;
 }
 /* .text::placeholder {
   color: rgb(0, 153, 219, 0.9);
@@ -62,5 +62,6 @@ button {
   border-radius: 8px;
   cursor: pointer;
 }
+
 
 
