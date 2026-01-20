@@ -28,7 +28,7 @@ form {
 i {
   font-size: 4rem;
   margin-bottom: 0.8rem;
-  color: rgb(0, 153, 219, 0.9);
+  /* color: rgb(0, 153, 219, 0.9); */
 }
 fieldset {
   margin-bottom: 1rem;
@@ -62,4 +62,5 @@ button {
   border-radius: 8px;
   cursor: pointer;
 }
+
 
