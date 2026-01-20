@@ -19,11 +19,12 @@ form {
   border: 1px solid rgb(0, 153, 219, 0.9);
   width: 100%;
   max-width: 320px;
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 2rem 0;
-  box-shadow: 0.2rem 0.4rem 1rem rgb(0, 153, 219, 0.9);
+  /* box-shadow: 0.2rem 0.4rem 1rem rgb(0, 153, 219, 0.9); */
 }
 i {
   font-size: 4rem;
@@ -80,6 +81,18 @@ span a {
 .last{
   font-size:0.8rem
 }
+
+div {
+  border: 1px solid rgb(0, 153, 219, 0.9);
+  padding: 8px 4px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0rem 0rem 0.2rem rgb(0, 153, 219, 0.9);
+  margin-bottom: 10px;
+}
+
 
 
 
